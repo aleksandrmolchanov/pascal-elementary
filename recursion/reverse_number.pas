@@ -1,4 +1,4 @@
-program ReverseNumber;
+program reverse_number;
 
 function DoReverse(n, m: longint): longint;
 begin

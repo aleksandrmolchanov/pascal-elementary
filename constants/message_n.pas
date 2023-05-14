@@ -1,4 +1,4 @@
-program MessageN;
+program message_n;
 const
 	message = 'Hello, world!';
 	count = 20;

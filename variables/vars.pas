@@ -1,4 +1,4 @@
-program variables;
+program vars;
 var
 	x: integer;
 	y: integer;

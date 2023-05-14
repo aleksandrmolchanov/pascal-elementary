@@ -1,4 +1,4 @@
-program bith_repeat_until;
+program birth_repeat_until;
 var 
    year: integer;
 begin

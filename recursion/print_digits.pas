@@ -1,4 +1,4 @@
-program PrintDigits;
+program print_digits;
 
 procedure PrintDigs(n: integer);
 begin

@@ -1,4 +1,4 @@
-program PrintChars;
+program print_chars;
 
 procedure PrintChs(ch: char; count: integer);
 begin
